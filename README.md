@@ -1,2 +1,2 @@
 # thesis
-automated news categorizing project
+automated news categorizer project
