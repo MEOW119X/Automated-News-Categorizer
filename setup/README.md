@@ -1,2 +1,1 @@
-# Automated News Categorizer
-automated news categorizer project
+# For project set-up
