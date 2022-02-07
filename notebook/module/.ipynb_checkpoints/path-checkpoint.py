@@ -1,1 +1,0 @@
-path = '../../data/url.csv'
