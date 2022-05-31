@@ -1,12 +1,3 @@
-import nltk
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-nltk.download('punkt')
-nltk.download('omw-1.4')
-nltk.download('wordnet')
-
-df = input()
 class ClearNull:
     """Clear null values if null it will drop the rows out"""
     
@@ -45,5 +36,4 @@ class ClearNull:
     def output(self):
         return self.drop_check()
 
-dropnull = ClearNull(df, 'articles')
-dropnull = dropnull.output()
+
